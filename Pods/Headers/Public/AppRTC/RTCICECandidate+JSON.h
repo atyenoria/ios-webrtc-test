@@ -1,1 +1,1 @@
-../../../../Lib/RTCICECandidate+JSON.h
+../../../AppRTC/Lib/RTCICECandidate+JSON.h
